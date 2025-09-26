@@ -7,6 +7,7 @@ A Burp Suite extension (Jython) that adds a Match&Replace tab in Repeater (reque
 - Adds a Match&Replace tab in Repeater → Requests.
 - Two fields: Match and Replace, plus an Apply Replace button.
 - Replaces only inside the selection (does nothing if nothing is selected).
+- If nothing is selected, you can choose a part of the request to modify.
 
 ## Requirements
 
